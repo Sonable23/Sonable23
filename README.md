@@ -1,13 +1,18 @@
 ## Hi there 👋 My name is Sonable aka David
 
-![Your Banner Image]([link-to-your-banner-image](https://pin.it/6Xzb7x1xb))
+![Your Banner Image](https://pin.it/6Xzb7x1xb)
 
 - 🔭 I'm curently 21 years old
 - 👨‍🎓 Studied at Ho Chi Minh City University of Technology
+- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
+- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
 
