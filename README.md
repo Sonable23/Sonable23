@@ -1,18 +1,46 @@
 ## Hi there 👋 My name is Sonable aka David
 
-!([https://pin.it/6Xzb7x1xb](https://pin.it/73MbKCsNE))
+![Hello GIF](## Hi there 👋 My name is Sonable aka David
 
-- 🔭 I'm curently 21 years old
+![Hello GIF]((https://pin.it/6UgsZ3SgN))
+
+- 🔭 I'm currently 21 years old
 - 👨‍🎓 Studied at Ho Chi Minh City University of Technology
-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
+
+---
+
+### 📊 GitHub Stats:
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonable23&show_icons=true&theme=radical)
+
+---
+
+### 🚀 Tech Stack:
+
 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
+---
 
+![Thank You GIF](https://media.giphy.com/media/3o7aD6A42VWU1TGXMw/giphy.gif)
+)
+
+- 🔭 I'm currently 21 years old
+- 👨‍🎓 Studied at Ho Chi Minh City University of Technology
+
+---
+
+### 📊 GitHub Stats:
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonable23&show_icons=true&theme=radical)
+
+---
+
+### 🚀 Tech Stack:
+
+- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
+---
+
+![Thank You GIF](https://media.giphy.com/media/3o7aD6A42VWU1TGXMw/giphy.gif)
