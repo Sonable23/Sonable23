@@ -20,5 +20,4 @@
 
 ---
 
-![Thank You GIF](https://media.giphy.com/media/3o7aD6A42VWU1TGXMw/giphy.gif)
-
+![Thank You GIF](https://media.giphy.com/media/9BCX9jQLk7yStC4VwV/giphy.gif?cid=ecf05e470ycw6y64p8str5eggudawxinle29pvahs8tadvxs&ep=v1_gifs_search&rid=giphy.gif&ct=g)
