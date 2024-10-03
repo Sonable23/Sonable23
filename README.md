@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Sonable aka David
 
-![Your Banner Image](https://pin.it/6Xzb7x1xb)
+!([https://pin.it/6Xzb7x1xb](https://pin.it/73MbKCsNE))
 
 - 🔭 I'm curently 21 years old
 - 👨‍🎓 Studied at Ho Chi Minh City University of Technology
