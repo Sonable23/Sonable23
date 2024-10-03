@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Sonable aka David
 
-![Hello GIF]((https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNxNmJpcGQzdnFrbnZmdHJoaTdlb294M3A0Zzc2Y3dtb2g3MzBtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tsX3YMWYzDPjAARfeg/giphy.gif))
+![Hello GIF](https://tenor.com/bO4qH.gif)
 
 - 🔭 I'm currently 21 years old
 - 👨‍🎓 Studied at Ho Chi Minh City University of Technology
